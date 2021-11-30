@@ -1,0 +1,14 @@
+C:\Users\Samet\Desktop\WFA_CodeFirstMovie\WFA_Movie_CodeFirst\WFA_Movie_CodeFirst\bin\Debug\WFA_Movie_CodeFirst.exe.config
+C:\Users\Samet\Desktop\WFA_CodeFirstMovie\WFA_Movie_CodeFirst\WFA_Movie_CodeFirst\bin\Debug\WFA_Movie_CodeFirst.exe
+C:\Users\Samet\Desktop\WFA_CodeFirstMovie\WFA_Movie_CodeFirst\WFA_Movie_CodeFirst\bin\Debug\WFA_Movie_CodeFirst.pdb
+C:\Users\Samet\Desktop\WFA_CodeFirstMovie\WFA_Movie_CodeFirst\WFA_Movie_CodeFirst\bin\Debug\EntityFramework.dll
+C:\Users\Samet\Desktop\WFA_CodeFirstMovie\WFA_Movie_CodeFirst\WFA_Movie_CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Samet\Desktop\WFA_CodeFirstMovie\WFA_Movie_CodeFirst\WFA_Movie_CodeFirst\bin\Debug\EntityFramework.xml
+C:\Users\Samet\Desktop\WFA_CodeFirstMovie\WFA_Movie_CodeFirst\WFA_Movie_CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Samet\Desktop\WFA_CodeFirstMovie\WFA_Movie_CodeFirst\WFA_Movie_CodeFirst\obj\Debug\WFA_Movie_CodeFirst.csproj.AssemblyReference.cache
+C:\Users\Samet\Desktop\WFA_CodeFirstMovie\WFA_Movie_CodeFirst\WFA_Movie_CodeFirst\obj\Debug\WFA_Movie_CodeFirst.Properties.Resources.resources
+C:\Users\Samet\Desktop\WFA_CodeFirstMovie\WFA_Movie_CodeFirst\WFA_Movie_CodeFirst\obj\Debug\WFA_Movie_CodeFirst.csproj.GenerateResource.cache
+C:\Users\Samet\Desktop\WFA_CodeFirstMovie\WFA_Movie_CodeFirst\WFA_Movie_CodeFirst\obj\Debug\WFA_Movie_CodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\Samet\Desktop\WFA_CodeFirstMovie\WFA_Movie_CodeFirst\WFA_Movie_CodeFirst\obj\Debug\WFA_Movie_CodeFirst.csproj.CopyComplete
+C:\Users\Samet\Desktop\WFA_CodeFirstMovie\WFA_Movie_CodeFirst\WFA_Movie_CodeFirst\obj\Debug\WFA_Movie_CodeFirst.exe
+C:\Users\Samet\Desktop\WFA_CodeFirstMovie\WFA_Movie_CodeFirst\WFA_Movie_CodeFirst\obj\Debug\WFA_Movie_CodeFirst.pdb
